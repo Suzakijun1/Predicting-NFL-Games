@@ -1,4 +1,4 @@
-# CIS 600 Data Mining Research Project
+# Data Mining Research Project
 This project's goal is to preprocess and filter data sets to improve the performance of existing NFL prediction models that attempt to simulate NFL game outcomes.  
 Repository leverges an existing [Python Model](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/) written by Dante Sbledorio and a [free sports API](https://github.com/davidjkrause/sportsipy) written by Robert Clark and David Krause
 
